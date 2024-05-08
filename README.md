@@ -6,6 +6,11 @@
         <p>Ao invés de HTML, Gemini utiliza sua própria linguagem de marcação leve chamada "Gemtext". Essa linguagem é fácil de aprender e escrever, tornando o Gemini acessível tanto para criadores quanto para consumidores de conteúdo.</p>
     </section>
 
+**Aqui eu vou colocar os desafios das aulas**
+<hr>
+  <li><a href=> Informações da Aula 1</a></li>
+  <li><a href=> Informações da Aula 1</a></li>
+
   <section>
         <h2>Como o Gemini funciona?</h2>
         <p>O funcionamento do Gemini se assemelha ao da Web, mas com algumas diferenças importantes:</p>
