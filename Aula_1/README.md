@@ -2,7 +2,7 @@
 
 **PRIMEIRO DESAFIO:** Utilizar o Gemini para ajudar em alguma tarefa na área de trabalho (faculdade).
 
-Solicitei a enumeração e a descrição de uma imagem enviada no meu terceiro semestre do curso Ciência de Dados (hoje estou no quinto - 08/05/2024). Segue a imagem: 
+Solicitei a enumeração e a descrição de uma imagem enviada a mim no curso Ciência de Dados. Segue a imagem: 
 
 ![imagem data lake](https://github.com/BeatrizVencio/Imersao-Alura-2/blob/main/Aula_1/imgs/data_lake.png)
 
