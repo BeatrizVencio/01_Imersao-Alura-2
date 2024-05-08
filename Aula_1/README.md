@@ -1,5 +1,7 @@
 > :construction: Projeto em construção :construction:
 
-<h1><font>Desafios da Aula 1</font></h1>
+# Desafios da Aula 1
 
-**Primeiro Desafio:** Utilizar o Gemini em alguma tarefa em sua área de trabalho ou no cotidiano
+**PRIMEIRO DESAFIO:** Utilizar o Gemini em alguma tarefa em sua área de trabalho\
+
+Através da extensão, [Quick Chrome History Export](https://chromewebstore.google.com/detail/quick-chrome-history-expo/hdfpifhfphhgjipcnfnolgalplokmmge), foi coletado o histórico de navegação do Google Chrome e salvo como `.csv`
