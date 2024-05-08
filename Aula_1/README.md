@@ -2,7 +2,7 @@
 
 **PRIMEIRO DESAFIO:** Utilizar o Gemini para ajudar em alguma tarefa na área de trabalho (faculdade).
 
-Foi solicitada a enumeração e a descrição de uma imagem enviada no terceiro semestre do curso Ciência de Dados. Segue a imagem: 
+Solicitei a enumeração e a descrição de uma imagem enviada no meu terceiro semestre do curso Ciência de Dados (hoje estou no quinto - 08/05/2024). Segue a imagem: 
 
 ![imagem data lake](https://github.com/BeatrizVencio/Imersao-Alura-2/blob/main/Aula_1/imgs/data_lake.png)
 
@@ -65,7 +65,7 @@ Utilizando a extensão [Quick Chrome History Export](https://chromewebstore.goog
 
 <img alt="Google Extensao" src="https://github.com/BeatrizVencio/Imersao-Alura-2/blob/main/Aula_1/imgs/google_extensao.png" width="400" height="250"/>
 
-Depois foi importado o arquivo `.csv` para o [AI Studio](https://aistudio.google.com/app/prompts/new_chat?utm_source=website&utm_medium=referral&utm_campaign=Alura&utm_content=).
+Depois importei o arquivo `.csv` para o [AI Studio](https://aistudio.google.com/app/prompts/new_chat?utm_source=website&utm_medium=referral&utm_campaign=Alura&utm_content=).
 
 #
 
