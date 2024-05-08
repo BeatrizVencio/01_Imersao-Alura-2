@@ -1,15 +1,14 @@
   <h1>Gemini: Uma Abordagem Minimalista para a Web</h1>
 
+**Aqui estão os desafios das aulas**
+<li><a href="https://github.com/BeatrizVencio/Imersao-Alura-2/tree/main/Aula_1">Desafios da Aula 1</a></li>
+<li><a href="https://github.com/BeatrizVencio/Imersao-Alura-2/tree/main/Aula_2">Desafios da Aula 2</a></li>
+
   <section>
         <h2>O que é o Gemini?</h2>
         <p>Gemini é um novo protocolo de internet que visa simplificar a experiência online. Ele se posiciona como um meio-termo entre o Gopher (simples e baseado em texto) e a World Wide Web (complexa e multimídia). O conteúdo Gemini é principalmente textual, similar a um site básico, mas com foco na privacidade, segurança e eficiência.</p>
         <p>Ao invés de HTML, Gemini utiliza sua própria linguagem de marcação leve chamada "Gemtext". Essa linguagem é fácil de aprender e escrever, tornando o Gemini acessível tanto para criadores quanto para consumidores de conteúdo.</p>
     </section>
-
-**Aqui eu vou colocar os desafios das aulas**
-<hr>
-  <li><a href="https://github.com/BeatrizVencio/Imersao-Alura-2/tree/main/Aula_2">Informações da Aula 1</a></li>
-  <li><a href=> Informações da Aula 2</a></li>
 
   <section>
         <h2>Como o Gemini funciona?</h2>
