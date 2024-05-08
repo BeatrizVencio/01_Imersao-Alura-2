@@ -8,8 +8,8 @@
 
 **Aqui eu vou colocar os desafios das aulas**
 <hr>
-  <li><a href=> Informações da Aula 1</a></li>
-  <li><a href=> Informações da Aula 1</a></li>
+  <li><a href="https://github.com/BeatrizVencio/Imersao-Alura-2/tree/main/Aula_2">Informações da Aula 1</a></li>
+  <li><a href=> Informações da Aula 2</a></li>
 
   <section>
         <h2>Como o Gemini funciona?</h2>
