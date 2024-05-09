@@ -1,6 +1,6 @@
 # Desafios da Aula 1
-
-**PRIMEIRO DESAFIO:** Utilizar o Gemini para ajudar em alguma tarefa na área de trabalho (faculdade).
+## Desafio 1
+**OBJETIVO:** Utilizar o Gemini para ajudar em alguma tarefa na área de trabalho (faculdade).
 
 Solicitei a enumeração e a descrição de uma imagem enviada a mim no curso Ciência de Dados. Segue a imagem: 
 
@@ -58,8 +58,8 @@ Com isso, o Gemini trouxe as seguintes informações:
 
 #
 
-
-**SEGUNDO DESAFIO:** Utilizar o Gemini para analisar o histórico de navegação do Google.
+## Desafio 2
+**OBJETIVO:** Utilizar o Gemini para analisar o histórico de navegação do Google.
 
 Utilizando a extensão [Quick Chrome History Export](https://chromewebstore.google.com/detail/quick-chrome-history-expo/hdfpifhfphhgjipcnfnolgalplokmmge), o histórico de navegação do Google Chrome foi extraído e salvo como `.csv`.
 
