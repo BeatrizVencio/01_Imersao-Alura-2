@@ -19,7 +19,7 @@ E essa foi a resposta:
 ## Desafio 2
 **OBJETIVO:** Escolha 10 textos do seu site de notícias preferido. Apresente para o Google AI Studio o padrão dos títulos e das suas respectivas notícias e quando chegar no décimo primeiro texto, apresente somente a notícia e peça para ele gerar um título.
 
-Entreguei dez [textos](https://github.com/BeatrizVencio/Imersao-Alura-2/tree/main/Aula_2/textos) de notícias ao `Gemini` com seus respectivos títulos:  
+Entreguei dez [textos](https://github.com/BeatrizVencio/Imersao-Alura-2/tree/main/Aula_2/textos) de notícias ao `Gemini` com seus respectivos títulos, porém, com o décimo primeiro faltante:  
 
 ![textos](https://github.com/BeatrizVencio/Imersao-Alura-2/blob/main/Aula_2/imgs/11_textos.png)
 
