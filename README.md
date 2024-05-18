@@ -5,6 +5,7 @@
 <li><a href="https://github.com/BeatrizVencio/Imersao-Alura-2/tree/main/Aula_2">Desafios da Aula 2</a></li>
 <li><a href="https://github.com/BeatrizVencio/Imersao-Alura-2/tree/main/Aula_3">Desafios da Aula 3</a></li>
 <li><a href="https://github.com/BeatrizVencio/Imersao-Alura-2/tree/main/Aula_4">Desafios da Aula 4</a></li>
+<li><a href="https://github.com/BeatrizVencio/Imersao-Alura-2/tree/main/Aula_5">Desafios da Aula 5</a></li>
 
   <section>
         <h2>O que é o Gemini?</h2>
